@@ -1,0 +1,9 @@
+html {
+    box-sizing: border-box; /* This prevents padding or margin to add extra width to the page */
+}
+
+body {
+    /* background-color: aqua; */
+    margin: 0;
+    min-height: 100vh; /* Always strech background at least one viewport */
+}
